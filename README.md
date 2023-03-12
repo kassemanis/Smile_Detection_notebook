@@ -1,4 +1,4 @@
-# Smile Detection Jupyter Notebook
+# Smile Detection Project on a Jupyter Notebook
 
 This Jupyter Notebook provides a Python implementation for smile detection using TensorFlow, Keras, OpenCV, and Haar Cascades.
 
