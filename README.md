@@ -16,12 +16,9 @@ This Jupyter Notebook provides a Python implementation for smile detection using
 * SciPy
 * Six
 
-You can install these requirements by running `pip install -r requirements.txt` in the terminal.
-
 ## Installation
 
 1. Clone or download the repository.
-2. Install the required packages by running `pip install -r requirements.txt` in the terminal.
 3. Open the Jupyter Notebook `smile_detection.ipynb`.
 
 ## Usage
